@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning to become a good Data Analyst
 - 🍀 I'm currently looking for opportunities to work as a Data Analyst
 - :hammer_and_wrench: Languages and Tools : SQL, Power BI, Tableau, Python
-- Languagues: English, French
-- Background: Linguistic, but recently fall in Data field :"3
+- ✍️ Languagues: English, French
+- 🏫 Background: Linguistic, but recently fall in Data field :"3
